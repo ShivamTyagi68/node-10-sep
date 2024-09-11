@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "first_name": "Zack",
+        "last_name": "Chave",
+        "email": "zchave0@seesaa.net",
+        "gender": "Male"
+    },
+    {
+        "id": 2,
+        "first_name": "Melitta",
+        "last_name": "Hodinton",
+        "email": "mhodinton1@umich.edu",
+        "gender": "Bigender"
+    },
+    {
+        "id": 3,
+        "first_name": "Umeko",
+        "last_name": "Thiese",
+        "email": "uthiese2@opera.com",
+        "gender": "Female"
+    },
+    {
+        "id": 4,
+        "first_name": "Toby",
+        "last_name": "Lanfere",
+        "email": "tlanfere3@a8.net",
+        "gender": "Agender"
+    },
+    {
+        "id": 5,
+        "first_name": "Beniamino",
+        "last_name": "Swyer",
+        "email": "bswyer4@artisteer.com",
+        "gender": "Male"
+    },
+    {
+        "id": 6,
+        "first_name": "Merle",
+        "last_name": "Heustice",
+        "email": "mheustice5@studiopress.com",
+        "gender": "Male"
+    },
+    {
+        "id": 7,
+        "first_name": "Allsun",
+        "last_name": "O' Bee",
+        "email": "aobee6@sun.com",
+        "gender": "Female"
+    },
+    {
+        "id": 8,
+        "first_name": "Dun",
+        "last_name": "Franc",
+        "email": "dfranc7@examiner.com",
+        "gender": "Male"
+    },
+    {
+        "id": 9,
+        "first_name": "Josepha",
+        "last_name": "Mayor",
+        "email": "jmayor8@fotki.com",
+        "gender": "Female"
+    },
+    {
+        "id": 10,
+        "first_name": "Palmer",
+        "last_name": "Grolmann",
+        "email": "pgrolmann9@engadget.com",
+        "gender": "Polygender"
+    },
+    {
+        "first_name": "shivam",
+        "last_name": "tyagi",
+        "email": "mhodinton1@umich.edu",
+        "gender": "Bigender",
+        "id": 11
+    }
+]
